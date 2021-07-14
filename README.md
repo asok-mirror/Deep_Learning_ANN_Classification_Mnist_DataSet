@@ -1,4 +1,4 @@
-# Keras Classification - Mnist dataset
+# Keras Classification - Mnist dataset (handwriting recognition)
 
 1) Change the root directory in the jupyter notebook 
 
